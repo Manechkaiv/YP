@@ -11,3 +11,6 @@
 [Резюме на hh](https://disk.yandex.ru/i/8yO9kwSOkv2tGg)
 
 **Используемые технологии:** Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
+
+| Markdown              | Поддерживает           | Таблицы                     |
+| :-------------------- | ---------------------: |:---------------------------:|
