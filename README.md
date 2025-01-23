@@ -4,11 +4,7 @@
 
 ### Контакты:
 
-**Почта:** masiavka96@mail.ru
-
-**Telegram:** @Mary_SP
-
-[Резюме на hh](https://disk.yandex.ru/i/8yO9kwSOkv2tGg)
+**Почта:** ivanova_mariia_sp@mail.ru
 
 **Используемые технологии:** Python, NumPy, Sklearn, Seaborn, PyTorch, Matplotlib, Plotly, CatBoost, XGBoost, LightGBM, SQL.
 
